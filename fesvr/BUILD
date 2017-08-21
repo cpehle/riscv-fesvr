@@ -1,5 +1,5 @@
 cc_library(
-	name = "fesrv",
+	name = "fesvr",
 	srcs = [
 	    "context.cc",
 	    "device.cc",
