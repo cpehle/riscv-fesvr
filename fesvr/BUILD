@@ -34,5 +34,6 @@ cc_library(
 	    "syscall.h",
 	    "term.h",
 	    "tsi.h",
-	],	
+	],
+	visibility = ["//visibility:public"],
 )
